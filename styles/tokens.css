@@ -1,0 +1,41 @@
+:root {
+  /* Colors */
+  --white: #ffffff;
+  --cream: #f2eae2;
+  --black: #1c232b;
+  --grey: #6c7289;
+  --green-500: #3d8168;
+  --green-700: #1a4032;
+
+  /* Spacing */
+  --spacing-50: 0.25rem;
+  --spacing-100: 0.5rem;
+  --spacing-200: 1rem;
+  --spacing-300: 1.5rem;
+  --spacing-400: 2rem;
+  --spacing-500: 2.5rem;
+
+  /* Typography Presets */
+  --font-family-monserrat: "Montserrat", system-ui, sans-serif;
+  --font-family-fraunces: "Fraunces", system-ui, sans-serif;
+  --text-preset-1-font-size: 2rem;
+  --text-preset-1-font-weight: 700;
+  --text-preset-1-line-height: 1;
+  --text-preset-1-letter-spacing: 0rem;
+  --text-preset-2-font-size: 0.875rem;
+  --text-preset-2-font-weight: 700;
+  --text-preset-2-line-height: 1.1;
+  --text-preset-2-letter-spacing: 0rem;
+  --text-preset-3-font-size: 0.875rem;
+  --text-preset-3-font-weight: 500;
+  --text-preset-3-line-height: 1.6;
+  --text-preset-3-letter-spacing: 0rem;
+  --text-preset-4-font-size: 0.75rem;
+  --text-preset-4-font-weight: 500;
+  --text-preset-4-line-height: 1.2;
+  --text-preset-4-letter-spacing: 5px;
+  --text-preset-5-font-size: 0.8125rem;
+  --text-preset-5-font-weight: 500;
+  --text-preset-5-line-height: 1.2;
+  --text-preset-5-letter-spacing: 0rem;
+}
